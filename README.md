@@ -1,4 +1,4 @@
-# Tauon-Tech_Assessment_movieapp
+# Tauon-Tech_Assessment_Movieapp
 🎬 Movie Search App
 
 🚀 Project Overview
