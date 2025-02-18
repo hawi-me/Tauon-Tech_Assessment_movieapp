@@ -12,5 +12,9 @@ The Movie Search App is a simple front-end web application that allows users to 
 📄 Movie Details: Display movie title, poster, release date, and rating.
 
 🎨 Responsive UI: Designed with Tailwind CSS for a modern look.
+command 
+npm install
+npm run dev 
+
 
 
