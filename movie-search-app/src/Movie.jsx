@@ -34,7 +34,7 @@ function Movie() {
         <input
           type="text"
           placeholder="Search movies..."
-          className="p-2 rounded-lg w-96 text-black"
+          className="p-2 rounded-lg w-96 text-white"
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         />

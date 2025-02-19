@@ -1,6 +1,6 @@
 # Tauon-Tech_Assessment_Movieapp
 🎬 Movie Search App
-
+https://developer.themoviedb.org
 🚀 Project Overview
 
 The Movie Search App is a simple front-end web application that allows users to search for movies using The Movie Database (TMDB) API. The app provides real-time search results, displays movie details, and features a clean and responsive UI.
@@ -13,4 +13,4 @@ The Movie Search App is a simple front-end web application that allows users to 
 
 🎨 Responsive UI: Designed with Tailwind CSS for a modern look.
 
-🔄 Loading & Error Handling: Displays loading indicators and meaningful error messages.
+
